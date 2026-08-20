@@ -1,69 +1,64 @@
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/lopeza93/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+
+# Agustín López
+
+**Full Stack JavaScript Developer** · Barcelona, España
+
+<a href="https://lopeza.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-lopeza.dev-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/lopeza93/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-lopeza93-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="linkedin" />
+</a>
+<a href="mailto:lopeza.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-lopeza.dev@gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="email" />
+</a>
+
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LopezA93/count.svg?"  />
-</div>
+### 👨‍💻 About me
 
-###
+Full Stack JavaScript Developer con más de 3 años construyendo aplicaciones web y móviles escalables. Actualmente lidero el desarrollo en **agriNews SL**, gestionando el ciclo completo de producto: diseño de arquitectura, implementación y despliegue en producción.
 
-<h1 align="center">Hey there 👋</h1>
+- 🔭 Enfocado en **React**, **Next.js**, **Node.js** y **TypeScript**
+- ⚡ Fuerte foco en rendimiento, escalabilidad e impacto de negocio — APIs de alto tráfico y arquitecturas multi-tenant
+- 📍 Argentino, radicado en **Barcelona**
+- 🐈 En mi tiempo libre, en casa con mis gatos o juntándome con amigos
 
-###
+### 🚀 Proyecto destacado
 
-<h3 align="left">👩‍💻  About Me</h3>
+**[Timpzo](https://timpzo.com)** — Plataforma SaaS de reservas multi-tenant para negocios de servicios. Agenda de citas, gestión de disponibilidad y acceso por roles.
+`Next.js` · `Node.js` · `PostgreSQL (Neon)` · `Multi-tenant` · `RBAC`
 
-###
+Más trabajos y mi CV en **[lopeza.dev](https://lopeza.dev)**.
 
-<p align="left">I’m Agustín López from Córdoba, Argentina.<br>	•	🔭 Currently working as a Full Stack JavaScript Developer at Agrinews SL.<br>	•	📚 Always learning and exploring new technologies to improve my skills.<br>	•	⚡ In my free time, I love spending time at home with my cats and meeting up with friends.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🛠 Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui" />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LopezA93&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LopezA93&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
