@@ -63,9 +63,8 @@ Más trabajos y mi CV en **[lopeza.dev](https://lopeza.dev)**.
 </div>
 
 
-### 📊 Stats
+### 📊 Lenguajes más usados
 
 <div align="center">
-  <img src="https://github-readme-stats-one-iota-21.vercel.app/api?username=LopezA93&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="stats" />
-  <img src="https://github-readme-stats-one-iota-21.vercel.app/api/top-langs?username=LopezA93&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="180" alt="top languages" />
+  <img src="https://github-readme-stats-one-iota-21.vercel.app/api/top-langs?username=LopezA93&layout=compact&card_width=400&langs_count=6&theme=radical&hide_border=false" height="180" alt="lenguajes más usados" />
 </div>
