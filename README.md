@@ -62,3 +62,10 @@ Más trabajos y mi CV en **[lopeza.dev](https://lopeza.dev)**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui" />
 </div>
 
+
+### 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-one-iota-21.vercel.app/api?username=LopezA93&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="stats" />
+  <img src="https://github-readme-stats-one-iota-21.vercel.app/api/top-langs?username=LopezA93&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="180" alt="top languages" />
+</div>
